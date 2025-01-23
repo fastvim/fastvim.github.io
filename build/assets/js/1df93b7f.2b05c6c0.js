@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfastvim_github_io=self.webpackChunkfastvim_github_io||[]).push([[583],{6107:(t,i,s)=>{s.r(i),s.d(i,{default:()=>r});s(6540);var u=s(6347),e=s(4848);function r(){return(0,e.jsx)(u.rd,{to:"/docs/intro"})}}}]);

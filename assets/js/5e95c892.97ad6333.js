@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfastvim_github_io=self.webpackChunkfastvim_github_io||[]).push([[647],{8122:(e,s,r)=>{r.r(s),r.d(s,{default:()=>n});r(6540);var t=r(4164),u=r(1769),a=r(204),i=r(2831),c=r(1410),h=r(4848);function n(e){return(0,h.jsx)(u.e3,{className:(0,t.A)(a.G.wrapper.docsPages),children:(0,h.jsx)(c.A,{children:(0,i.v)(e.route.routes)})})}}}]);
