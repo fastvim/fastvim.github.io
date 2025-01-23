@@ -27,7 +27,7 @@ jobs:
 
       - name: Move build files to root
         run: |
-          cp -r dist/* . 
+          cp -r build/* . 
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
